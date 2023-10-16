@@ -11,4 +11,4 @@ I am a Data Science and Computer Science student.
 ### The function random_number, with the help of the random module, every time this function is called returns a random number between 1 and 100.
 ### The function random_sum, called the random number fuction two times, and print in the console the sum between these two random numbers and also return the result as an integer. 
 
-![Alt text](./screenshot.png)
+![example image](./screenshot.png)
